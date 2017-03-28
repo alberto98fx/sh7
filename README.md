@@ -40,6 +40,15 @@ Guess what! :D
       "tt_secret":"JouBYOcZs1cfS9sD4T8ewCJ4cmFX3twiWERLT2JmdfvlEdgk"
 }
 ```
+But that's not enough? 
+
+Whisper uses mixpanel and guess what? 
+They allow HTTP request: 
+
+`http://decide.mixpanel.com/decide?version=1&lib=android&token=c39eea2c9ad72a79d1688ca82c50cb94&distinct_id=050f036278f1ae965166`
+
+;) 
+
 
 <h1>Steal User data</h1>
 
